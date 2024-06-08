@@ -10,7 +10,7 @@ bin/kafka-console-producer.sh --topic news --bootstrap-server localhost:9092
 #  Or you can copy the text below and paste. The below text sends three messages to kafka.
 Good morning
 Good day
-Enjoy the Kafka lab
+Enjoy the Kafka labc
 
 # You need a consumer to read messages from kafka.
 # Open a new terminal.
